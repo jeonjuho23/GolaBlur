@@ -1,0 +1,10 @@
+### config
+/configuration
+
+### pycache
+__pycache__
+
+### resource
+/resources
+
+#
